@@ -14,5 +14,8 @@ Short overview of the files that I have added/that differ from the code base of 
 5. data_visualization_dummy_and_graph_matching.py
 6. preprocessing.py
 7. And in the /data folder:
-     a. all benchmark_[...].tsv files
-     b. the files in the /Daten_PPRL folder
+
+   1. all benchmark_[...].tsv files
+   2. the files in the /Daten_PPRL folder
+
+
